@@ -1,0 +1,7 @@
+mkdir your_project_directory
+cd your_project_directory
+git init
+touch your_new_file.txt
+git add your_new_file.txt
+git add
+git commit-m"Initial commit-adding a new file"
